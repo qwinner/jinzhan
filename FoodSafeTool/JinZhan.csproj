@@ -1,0 +1,404 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="4.0">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{69CCDD2E-3B16-42DB-AFFB-87C7FEBF7F75}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>JinZhan</RootNamespace>
+    <AssemblyName>JinZhan</AssemblyName>
+    <ApplicationIcon>Resources\项目1.ico</ApplicationIcon>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <OldToolsVersion>3.5</OldToolsVersion>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>D:\qwinner-work\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <CreateWebPageOnPublish>false</CreateWebPageOnPublish>
+    <AutorunEnabled>true</AutorunEnabled>
+    <ApplicationRevision>1</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>5B148003F664AE6CB69EFB5940310F7204533F10</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>JinZhan_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>true</SignManifests>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Windows.Forms.DataVisualization, Version=3.5.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="About.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="About.Designer.cs">
+      <DependentUpon>About.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AccessDBClass.cs" />
+    <Compile Include="AddCompanyInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddCompanyInfo.Designer.cs">
+      <DependentUpon>AddCompanyInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AddHireHouseInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddHireHouseInfo.Designer.cs">
+      <DependentUpon>AddHireHouseInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AddJGPhoto .cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddJGPhoto .Designer.cs">
+      <DependentUpon>AddJGPhoto .cs</DependentUpon>
+    </Compile>
+    <Compile Include="AddUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddUser.Designer.cs">
+      <DependentUpon>AddUser.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ChuzuInfo.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ChuzuInfo.Designer.cs">
+      <DependentUpon>ChuzuInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CSV.cs" />
+    <Compile Include="ExportData.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ExportData.Designer.cs">
+      <DependentUpon>ExportData.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HeadPage.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="HeadPage.Designer.cs">
+      <DependentUpon>HeadPage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HireHouseInfoList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HireHouseInfoList.Designer.cs">
+      <DependentUpon>HireHouseInfoList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PrintPanel.cs" />
+    <Compile Include="SqlHelper.cs" />
+    <Compile Include="TopPanel.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="TopPanel.Designer.cs">
+      <DependentUpon>TopPanel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ViewJGPhoto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ViewJGPhoto.Designer.cs">
+      <DependentUpon>ViewJGPhoto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="企业信息\BaseInfo.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="企业信息\BaseInfo.Designer.cs">
+      <DependentUpon>BaseInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CompanyList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CompanyList.Designer.cs">
+      <DependentUpon>CompanyList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CurvePaint.cs" />
+    <Compile Include="Drag.cs" />
+    <Compile Include="CompanyInfoList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CompanyInfoList.Designer.cs">
+      <DependentUpon>CompanyInfoList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="企业信息\Jianguan.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="企业信息\Jianguan.Designer.cs">
+      <DependentUpon>Jianguan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="企业信息\Education.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="企业信息\Education.Designer.cs">
+      <DependentUpon>Education.cs</DependentUpon>
+    </Compile>
+    <Compile Include="企业信息\Foodsafe.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="企业信息\Foodsafe.Designer.cs">
+      <DependentUpon>Foodsafe.cs</DependentUpon>
+    </Compile>
+    <Compile Include="企业信息\JTsafe.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="企业信息\JTsafe.Designer.cs">
+      <DependentUpon>JTsafe.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Mainfrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Mainfrm.Designer.cs">
+      <DependentUpon>Mainfrm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Global.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="UserManage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UserManage.Designer.cs">
+      <DependentUpon>UserManage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="企业信息\LDperson.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="企业信息\LDperson.Designer.cs">
+      <DependentUpon>LDperson.cs</DependentUpon>
+    </Compile>
+    <Compile Include="企业信息\SafeProduce.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="企业信息\SafeProduce.Designer.cs">
+      <DependentUpon>SafeProduce.cs</DependentUpon>
+    </Compile>
+    <Compile Include="企业信息\XFsafe.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="企业信息\XFsafe.Designer.cs">
+      <DependentUpon>XFsafe.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="About.resx">
+      <DependentUpon>About.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddCompanyInfo.resx">
+      <DependentUpon>AddCompanyInfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddHireHouseInfo.resx">
+      <DependentUpon>AddHireHouseInfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddJGPhoto .resx">
+      <DependentUpon>AddJGPhoto .cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddUser.resx">
+      <DependentUpon>AddUser.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ChuzuInfo.resx">
+      <DependentUpon>ChuzuInfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ExportData.resx">
+      <DependentUpon>ExportData.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HeadPage.resx">
+      <DependentUpon>HeadPage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HireHouseInfoList.resx">
+      <DependentUpon>HireHouseInfoList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TopPanel.resx">
+      <DependentUpon>TopPanel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ViewJGPhoto.resx">
+      <DependentUpon>ViewJGPhoto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="企业信息\BaseInfo.resx">
+      <DependentUpon>BaseInfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CompanyList.resx">
+      <DependentUpon>CompanyList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CompanyInfoList.resx">
+      <DependentUpon>CompanyInfoList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="企业信息\Jianguan.resx">
+      <DependentUpon>Jianguan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="企业信息\Education.resx">
+      <DependentUpon>Education.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="企业信息\Foodsafe.resx">
+      <DependentUpon>Foodsafe.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="企业信息\JTsafe.resx">
+      <DependentUpon>JTsafe.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Mainfrm.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Mainfrm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Start.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Start.cs</DependentUpon>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="UserManage.resx">
+      <DependentUpon>UserManage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="企业信息\LDperson.resx">
+      <DependentUpon>LDperson.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="企业信息\SafeProduce.resx">
+      <DependentUpon>SafeProduce.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="企业信息\XFsafe.resx">
+      <DependentUpon>XFsafe.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="ClassDiagram1.cd" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="Start.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Start.Designer.cs">
+      <DependentUpon>Start.cs</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Resources\项目1.ico" />
+    <None Include="Resources\Image1.bmp" />
+    <None Include="Resources\arrow.gif" />
+    <None Include="Resources\down.gif" />
+    <None Include="Resources\GradeA.png" />
+    <None Include="Resources\GradeB.png" />
+    <None Include="Resources\GradeC.png" />
+    <None Include="Resources\GradeD.png" />
+    <None Include="Resources\GradeF.png" />
+    <None Include="Resources\high.gif" />
+    <None Include="Resources\low.gif" />
+    <None Include="Resources\up.gif" />
+    <None Include="bin\Debug\pict\005.png" />
+    <None Include="bin\Debug\pict\016.png" />
+    <None Include="bin\Debug\pict\021.png" />
+    <None Include="Resources\close.bmp" />
+    <None Include="bin\Debug\img\close.png" />
+    <None Include="bin\Debug\img\min.png" />
+    <None Include="bin\Debug\img\sys_button_max1.png" />
+    <None Include="bin\Debug\img\background_mainwnd.jpg" />
+    <None Include="bin\Debug\img\close_down.png" />
+    <None Include="bin\Debug\img\close_move.png" />
+    <None Include="bin\Debug\img\gf.png" />
+    <None Include="bin\Debug\img\ico_diannaomenzhen.png" />
+    <None Include="bin\Debug\img\ico_dsmain.png" />
+    <None Include="bin\Debug\img\ico_Examine.png" />
+    <None Include="bin\Debug\img\ico_softmgr.png" />
+    <None Include="bin\Debug\img\ico_SpeedupOpt.png" />
+    <None Include="bin\Debug\img\ico_SysRepair.png" />
+    <None Include="bin\Debug\img\ico_TraceCleaner.png" />
+    <None Include="bin\Debug\img\ico_VulRepair.png" />
+    <None Include="bin\Debug\img\min_down.png" />
+    <None Include="bin\Debug\img\min_move.png" />
+    <None Include="bin\Debug\img\sys_button_close.png" />
+    <None Include="bin\Debug\img\sys_button_max2.png" />
+    <None Include="bin\Debug\img\sys_button_max3.png" />
+    <None Include="bin\Debug\img\sys_button_max.png" />
+    <None Include="bin\Debug\img\sys_button_min.png" />
+    <None Include="bin\Debug\img\sys_button_restore.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="stdole">
+      <Guid>{00020430-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>2</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

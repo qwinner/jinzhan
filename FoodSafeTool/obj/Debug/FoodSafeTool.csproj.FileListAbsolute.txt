@@ -1,0 +1,92 @@
+C:\Documents and Settings\water\桌面\food_safe\Twater\obj\Debug\Interop.MapXLib.dll
+C:\Documents and Settings\water\桌面\food_safe\Twater\obj\Debug\AxInterop.MapXLib.dll
+C:\Documents and Settings\water\桌面\food_safe\Twater\obj\Debug\FoodSafeTool.csproj.ResolveComReference.cache
+C:\Documents and Settings\water\桌面\food_safe\FoodSafeTool\obj\Debug\Interop.MapXLib.dll
+C:\Documents and Settings\water\桌面\food_safe\FoodSafeTool\obj\Debug\AxInterop.MapXLib.dll
+C:\Documents and Settings\water\桌面\food_safe\FoodSafeTool\obj\Debug\FoodSafeTool.csproj.ResolveComReference.cache
+C:\Documents and Settings\water\桌面\food_safe\FoodSafeTool\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\water\桌面\food_safe\FoodSafeTool\obj\Debug\FoodSafeTool.Properties.Resources.resources
+C:\Documents and Settings\water\桌面\food_safe\FoodSafeTool\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Documents and Settings\water\桌面\food_safe\FoodSafeTool\obj\Debug\GenerateResource-ResGen.read.4.tlog
+C:\Documents and Settings\water\桌面\food_safe\FoodSafeTool\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Documents and Settings\water\桌面\food_safe\FoodSafeTool\obj\Debug\FoodSafeTool.About.resources
+C:\Documents and Settings\water\桌面\food_safe\FoodSafeTool\obj\Debug\FoodSafeTool.Emergency.resources
+C:\Documents and Settings\water\桌面\food_safe\FoodSafeTool\bin\Debug\FoodSafeTool.exe
+C:\Documents and Settings\water\桌面\food_safe\FoodSafeTool\bin\Debug\FoodSafeTool.pdb
+C:\Documents and Settings\water\桌面\food_safe\FoodSafeTool\bin\Debug\Interop.MapXLib.dll
+C:\Documents and Settings\water\桌面\food_safe\FoodSafeTool\bin\Debug\AxInterop.MapXLib.dll
+C:\Documents and Settings\water\桌面\food_safe\FoodSafeTool\obj\Debug\FoodSafeTool.DataFit.resources
+C:\Documents and Settings\water\桌面\food_safe\FoodSafeTool\obj\Debug\FoodSafeTool.FindSource.resources
+C:\Documents and Settings\water\桌面\food_safe\FoodSafeTool\obj\Debug\FoodSafeTool.Mainfrm.resources
+C:\Documents and Settings\water\桌面\food_safe\FoodSafeTool\obj\Debug\FoodSafeTool.ShowDataByType.resources
+C:\Documents and Settings\water\桌面\food_safe\FoodSafeTool\obj\Debug\FoodSafeTool.Start.resources
+C:\Documents and Settings\water\桌面\food_safe\FoodSafeTool\obj\Debug\FoodSafeTool.exe
+C:\Documents and Settings\water\桌面\food_safe\FoodSafeTool\obj\Debug\FoodSafeTool.pdb
+C:\Documents and Settings\water\桌面\FoodSafe\FoodSafeTool\obj\Debug\Interop.MapXLib.dll
+C:\Documents and Settings\water\桌面\FoodSafe\FoodSafeTool\obj\Debug\AxInterop.MapXLib.dll
+C:\Documents and Settings\water\桌面\FoodSafe\FoodSafeTool\obj\Debug\FoodSafeTool.csproj.ResolveComReference.cache
+C:\Documents and Settings\water\桌面\FoodSafe\FoodSafeTool\obj\Debug\FoodSafeTool.exe
+C:\Documents and Settings\water\桌面\FoodSafe\FoodSafeTool\obj\Debug\FoodSafeTool.pdb
+C:\Documents and Settings\water\桌面\FoodSafe\FoodSafeTool\bin\Debug\FoodSafeTool.exe
+C:\Documents and Settings\water\桌面\FoodSafe\FoodSafeTool\bin\Debug\FoodSafeTool.pdb
+C:\Documents and Settings\water\桌面\FoodSafe\FoodSafeTool\bin\Debug\Interop.MapXLib.dll
+C:\Documents and Settings\water\桌面\FoodSafe\FoodSafeTool\bin\Debug\AxInterop.MapXLib.dll
+C:\Documents and Settings\water\桌面\FoodSafe\FoodSafeTool\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\water\桌面\FoodSafe\FoodSafeTool\obj\Debug\FoodSafeTool.About.resources
+C:\Documents and Settings\water\桌面\FoodSafe\FoodSafeTool\obj\Debug\FoodSafeTool.Emergency.resources
+C:\Documents and Settings\water\桌面\FoodSafe\FoodSafeTool\obj\Debug\FoodSafeTool.FindSource.resources
+C:\Documents and Settings\water\桌面\FoodSafe\FoodSafeTool\obj\Debug\FoodSafeTool.Mainfrm.resources
+C:\Documents and Settings\water\桌面\FoodSafe\FoodSafeTool\obj\Debug\FoodSafeTool.Properties.Resources.resources
+C:\Documents and Settings\water\桌面\FoodSafe\FoodSafeTool\obj\Debug\FoodSafeTool.ShowDataByType.resources
+C:\Documents and Settings\water\桌面\FoodSafe\FoodSafeTool\obj\Debug\FoodSafeTool.Start.resources
+C:\Documents and Settings\water\桌面\FoodSafe\FoodSafeTool\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Documents and Settings\water\桌面\FoodSafe\FoodSafeTool\obj\Debug\GenerateResource-ResGen.read.4.tlog
+C:\Documents and Settings\water\桌面\FoodSafe\FoodSafeTool\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Documents and Settings\water\桌面\FoodSafe\FoodSafeTool\obj\Debug\FoodSafeTool.Pictrue.resources
+C:\Documents and Settings\water\桌面\FoodSafe\FoodSafeTool\obj\Debug\FoodSafeTool.UserManage.resources
+C:\Documents and Settings\water\桌面\FoodSafe\FoodSafeTool\bin\Debug\Chartlet.pdb
+K:\复件 2013-06-03-FoodSafe\FoodSafeTool\obj\Debug\Interop.MapXLib.dll
+K:\复件 2013-06-03-FoodSafe\FoodSafeTool\obj\Debug\AxInterop.MapXLib.dll
+K:\复件 2013-06-03-FoodSafe\FoodSafeTool\obj\Debug\FoodSafeTool.csproj.ResolveComReference.cache
+K:\复件 2013-06-03-FoodSafe\FoodSafeTool\obj\Debug\FoodSafeTool.exe
+K:\复件 2013-06-03-FoodSafe\FoodSafeTool\obj\Debug\FoodSafeTool.pdb
+K:\复件 2013-06-03-FoodSafe\FoodSafeTool\bin\Debug\FoodSafeTool.exe
+K:\复件 2013-06-03-FoodSafe\FoodSafeTool\bin\Debug\FoodSafeTool.pdb
+K:\复件 2013-06-03-FoodSafe\FoodSafeTool\bin\Debug\Chartlet.pdb
+K:\复件 2013-06-03-FoodSafe\FoodSafeTool\bin\Debug\Interop.MapXLib.dll
+K:\复件 2013-06-03-FoodSafe\FoodSafeTool\bin\Debug\AxInterop.MapXLib.dll
+K:\复件 2013-06-03-FoodSafe\FoodSafeTool\obj\Debug\FoodSafeTool.csprojResolveAssemblyReference.cache
+K:\复件 2013-06-03-FoodSafe\FoodSafeTool\obj\Debug\FoodSafeTool.About.resources
+K:\复件 2013-06-03-FoodSafe\FoodSafeTool\obj\Debug\FoodSafeTool.Emergency.resources
+K:\复件 2013-06-03-FoodSafe\FoodSafeTool\obj\Debug\FoodSafeTool.FindSource.resources
+K:\复件 2013-06-03-FoodSafe\FoodSafeTool\obj\Debug\FoodSafeTool.Mainfrm.resources
+K:\复件 2013-06-03-FoodSafe\FoodSafeTool\obj\Debug\FoodSafeTool.Pictrue.resources
+K:\复件 2013-06-03-FoodSafe\FoodSafeTool\obj\Debug\FoodSafeTool.Properties.Resources.resources
+K:\复件 2013-06-03-FoodSafe\FoodSafeTool\obj\Debug\FoodSafeTool.ShowDataByType.resources
+K:\复件 2013-06-03-FoodSafe\FoodSafeTool\obj\Debug\FoodSafeTool.Start.resources
+K:\复件 2013-06-03-FoodSafe\FoodSafeTool\obj\Debug\FoodSafeTool.UserManage.resources
+K:\复件 2013-06-03-FoodSafe\FoodSafeTool\obj\Debug\FoodSafeTool.csproj.GenerateResource.Cache
+D:\qwinner-work\复件 2013-06-03-FoodSafe\FoodSafeTool\obj\Debug\FoodSafeTool.csproj.ResolveComReference.cache
+D:\qwinner-work\复件 2013-06-03-FoodSafe\FoodSafeTool\obj\Debug\FoodSafeTool.exe
+D:\qwinner-work\复件 2013-06-03-FoodSafe\FoodSafeTool\obj\Debug\FoodSafeTool.pdb
+D:\qwinner-work\复件 2013-06-03-FoodSafe\FoodSafeTool\obj\Debug\ResolveAssemblyReference.cache
+D:\qwinner-work\复件 2013-06-03-FoodSafe\FoodSafeTool\obj\Debug\FoodSafeTool.About.resources
+D:\qwinner-work\复件 2013-06-03-FoodSafe\FoodSafeTool\obj\Debug\FoodSafeTool.Emergency.resources
+D:\qwinner-work\复件 2013-06-03-FoodSafe\FoodSafeTool\obj\Debug\FoodSafeTool.FindSource.resources
+D:\qwinner-work\复件 2013-06-03-FoodSafe\FoodSafeTool\obj\Debug\FoodSafeTool.Mainfrm.resources
+D:\qwinner-work\复件 2013-06-03-FoodSafe\FoodSafeTool\obj\Debug\FoodSafeTool.Pictrue.resources
+D:\qwinner-work\复件 2013-06-03-FoodSafe\FoodSafeTool\obj\Debug\FoodSafeTool.Properties.Resources.resources
+D:\qwinner-work\复件 2013-06-03-FoodSafe\FoodSafeTool\obj\Debug\FoodSafeTool.ShowDataByType.resources
+D:\qwinner-work\复件 2013-06-03-FoodSafe\FoodSafeTool\obj\Debug\FoodSafeTool.Start.resources
+D:\qwinner-work\复件 2013-06-03-FoodSafe\FoodSafeTool\obj\Debug\FoodSafeTool.UserManage.resources
+D:\qwinner-work\复件 2013-06-03-FoodSafe\FoodSafeTool\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\qwinner-work\复件 2013-06-03-FoodSafe\FoodSafeTool\obj\Debug\GenerateResource-ResGen.read.4.tlog
+D:\qwinner-work\复件 2013-06-03-FoodSafe\FoodSafeTool\obj\Debug\GenerateResource-ResGen.read.5.tlog
+D:\qwinner-work\复件 2013-06-03-FoodSafe\FoodSafeTool\obj\Debug\GenerateResource-ResGen.read.6.tlog
+D:\qwinner-work\复件 2013-06-03-FoodSafe\FoodSafeTool\obj\Debug\GenerateResource-ResGen.write.1.tlog
+D:\qwinner-work\复件 2013-06-03-FoodSafe\FoodSafeTool\obj\Debug\GenerateResource-ResGen.write.4.tlog
+D:\qwinner-work\复件 2013-06-03-FoodSafe\FoodSafeTool\obj\Debug\GenerateResource-ResGen.write.5.tlog
+D:\qwinner-work\复件 2013-06-03-FoodSafe\FoodSafeTool\obj\Debug\GenerateResource-ResGen.write.6.tlog
+D:\qwinner-work\复件 2013-06-03-FoodSafe\FoodSafeTool\bin\Debug\FoodSafeTool.exe
+D:\qwinner-work\复件 2013-06-03-FoodSafe\FoodSafeTool\bin\Debug\FoodSafeTool.pdb
+D:\qwinner-work\复件 2013-06-03-FoodSafe\FoodSafeTool\bin\Debug\Chartlet.pdb

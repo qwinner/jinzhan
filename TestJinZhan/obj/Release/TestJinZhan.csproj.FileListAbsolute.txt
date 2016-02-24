@@ -1,0 +1,9 @@
+D:\qwinner-work\功能完善版-New_Jin_Zhan\TestJinZhan\bin\Release\TestJinZhan.dll
+D:\qwinner-work\功能完善版-New_Jin_Zhan\TestJinZhan\bin\Release\TestJinZhan.pdb
+D:\qwinner-work\功能完善版-New_Jin_Zhan\TestJinZhan\bin\Release\JinZhan.exe
+D:\qwinner-work\功能完善版-New_Jin_Zhan\TestJinZhan\bin\Release\JinZhan.pdb
+D:\qwinner-work\功能完善版-New_Jin_Zhan\TestJinZhan\bin\Release\JinZhan_Accessor.exe
+D:\qwinner-work\功能完善版-New_Jin_Zhan\TestJinZhan\bin\Release\JinZhan_Accessor.pdb
+D:\qwinner-work\功能完善版-New_Jin_Zhan\TestJinZhan\obj\Release\ResolveAssemblyReference.cache
+D:\qwinner-work\功能完善版-New_Jin_Zhan\TestJinZhan\obj\Release\TestJinZhan.dll
+D:\qwinner-work\功能完善版-New_Jin_Zhan\TestJinZhan\obj\Release\TestJinZhan.pdb

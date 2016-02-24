@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="b6b6b543-ee17-4a83-becc-214b5ea19aca" name="Administrator@PC-20100625VTUD 2013-12-25 13:37:46" runUser="PC-20100625VTUD\Administrator" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="本地" id="084791f5-ddad-4d33-88d0-1060aaf7796f">
+    <Description>这些设置为本地测试运行的默认测试设置。</Description>
+    <Deployment enabled="false" runDeploymentRoot="Administrator_PC-20100625VTUD 2013-12-25 13_37_46">
+      <DeploymentItem filename="D:\qwinner-work\New_Jin_Zhan\FoodSafeTool\bin\Debug\JinZhan.exe" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2013-12-25T13:37:46.6406250+08:00" queuing="2013-12-25T13:37:46.6718750+08:00" start="2013-12-25T13:37:46.7031250+08:00" finish="2013-12-25T13:37:47.6875000+08:00" />
+  <ResultSummary outcome="Failed">
+    <Counters total="1" executed="1" error="0" failed="1" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" passed="0" completed="0" inProgress="0" pending="0" />
+    <RunInfos>
+      <RunInfo computerName="PC-20100625VTUD" outcome="Warning" timestamp="2013-12-25T13:37:46.6718750+08:00">
+        <Text>当前已禁用部署。未部署测试“TestJinZhan.ExportDataTest.ParsingChangDiTest”中的部署项“JinZhan.exe”。</Text>
+      </RunInfo>
+    </RunInfos>
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="ParsingChangDiTest" storage="d:\qwinner-work\new_jin_zhan\testjinzhan\bin\debug\testjinzhan.dll" id="f036620f-5233-41b6-f5d9-f51d1bbf7ea6">
+      <DeploymentItems>
+        <DeploymentItem filename="JinZhan.exe" />
+      </DeploymentItems>
+      <Execution id="ea970f60-c2f6-4d21-b6a5-e0daf67b72f4" />
+      <TestMethod codeBase="D:/qwinner-work/New_Jin_Zhan/TestJinZhan/bin/Debug/TestJinZhan.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestJinZhan.ExportDataTest, TestJinZhan, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="ParsingChangDiTest" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="列表中未列出的结果" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="所有已加载的结果" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="f036620f-5233-41b6-f5d9-f51d1bbf7ea6" executionId="ea970f60-c2f6-4d21-b6a5-e0daf67b72f4" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="ea970f60-c2f6-4d21-b6a5-e0daf67b72f4" testId="f036620f-5233-41b6-f5d9-f51d1bbf7ea6" testName="ParsingChangDiTest" computerName="PC-20100625VTUD" duration="00:00:00.2910643" startTime="2013-12-25T13:37:46.7187500+08:00" endTime="2013-12-25T13:37:47.6406250+08:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="ea970f60-c2f6-4d21-b6a5-e0daf67b72f4">
+      <Output>
+        <ErrorInfo>
+          <Message>Assert.AreEqual 失败。应为: &lt;生产,存储,&gt;，实际为: &lt;1,2,&gt;。</Message>
+          <StackTrace>   在 TestJinZhan.ExportDataTest.ParsingChangDiTest() 位置 D:\qwinner-work\New_Jin_Zhan\TestJinZhan\ExportDataTest.cs:行号 80
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+  </Results>
+</TestRun>

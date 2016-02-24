@@ -1,0 +1,132 @@
+D:\qwinner-work\复件 2013-06-03-FoodSafe\FoodSafeTool\bin\Debug\FoodSafeTool.exe
+D:\qwinner-work\复件 2013-06-03-FoodSafe\FoodSafeTool\bin\Debug\FoodSafeTool.pdb
+D:\qwinner-work\复件 2013-06-03-FoodSafe\FoodSafeTool\bin\Debug\Chartlet.pdb
+D:\qwinner-work\复件 2013-06-03-FoodSafe\FoodSafeTool\obj\Debug\ResolveAssemblyReference.cache
+D:\qwinner-work\复件 2013-06-03-FoodSafe\FoodSafeTool\obj\Debug\JinZhan.csproj.ResolveComReference.cache
+D:\qwinner-work\复件 2013-06-03-FoodSafe\FoodSafeTool\obj\Debug\FoodSafeTool.About.resources
+D:\qwinner-work\复件 2013-06-03-FoodSafe\FoodSafeTool\obj\Debug\FoodSafeTool.Emergency.resources
+D:\qwinner-work\复件 2013-06-03-FoodSafe\FoodSafeTool\obj\Debug\FoodSafeTool.FindSource.resources
+D:\qwinner-work\复件 2013-06-03-FoodSafe\FoodSafeTool\obj\Debug\FoodSafeTool.Mainfrm.resources
+D:\qwinner-work\复件 2013-06-03-FoodSafe\FoodSafeTool\obj\Debug\FoodSafeTool.Pictrue.resources
+D:\qwinner-work\复件 2013-06-03-FoodSafe\FoodSafeTool\obj\Debug\FoodSafeTool.Properties.Resources.resources
+D:\qwinner-work\复件 2013-06-03-FoodSafe\FoodSafeTool\obj\Debug\FoodSafeTool.ShowDataByType.resources
+D:\qwinner-work\复件 2013-06-03-FoodSafe\FoodSafeTool\obj\Debug\FoodSafeTool.Start.resources
+D:\qwinner-work\复件 2013-06-03-FoodSafe\FoodSafeTool\obj\Debug\FoodSafeTool.UserManage.resources
+D:\qwinner-work\复件 2013-06-03-FoodSafe\FoodSafeTool\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\qwinner-work\复件 2013-06-03-FoodSafe\FoodSafeTool\obj\Debug\GenerateResource-ResGen.read.4.tlog
+D:\qwinner-work\复件 2013-06-03-FoodSafe\FoodSafeTool\obj\Debug\GenerateResource-ResGen.read.5.tlog
+D:\qwinner-work\复件 2013-06-03-FoodSafe\FoodSafeTool\obj\Debug\GenerateResource-ResGen.read.6.tlog
+D:\qwinner-work\复件 2013-06-03-FoodSafe\FoodSafeTool\obj\Debug\GenerateResource-ResGen.write.1.tlog
+D:\qwinner-work\复件 2013-06-03-FoodSafe\FoodSafeTool\obj\Debug\GenerateResource-ResGen.write.4.tlog
+D:\qwinner-work\复件 2013-06-03-FoodSafe\FoodSafeTool\obj\Debug\GenerateResource-ResGen.write.5.tlog
+D:\qwinner-work\复件 2013-06-03-FoodSafe\FoodSafeTool\obj\Debug\GenerateResource-ResGen.write.6.tlog
+D:\qwinner-work\复件 2013-06-03-FoodSafe\FoodSafeTool\obj\Debug\FoodSafeTool.exe
+D:\qwinner-work\复件 2013-06-03-FoodSafe\FoodSafeTool\obj\Debug\FoodSafeTool.pdb
+D:\qwinner-work\New_Jin_Zhan\FoodSafeTool\obj\Debug\JinZhan.csproj.ResolveComReference.cache
+D:\qwinner-work\New_Jin_Zhan\FoodSafeTool\obj\Debug\ResolveAssemblyReference.cache
+D:\qwinner-work\New_Jin_Zhan\FoodSafeTool\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\qwinner-work\New_Jin_Zhan\FoodSafeTool\obj\Debug\GenerateResource-ResGen.read.4.tlog
+D:\qwinner-work\New_Jin_Zhan\FoodSafeTool\obj\Debug\GenerateResource-ResGen.read.6.tlog
+D:\qwinner-work\New_Jin_Zhan\FoodSafeTool\obj\Debug\GenerateResource-ResGen.write.1.tlog
+D:\qwinner-work\New_Jin_Zhan\FoodSafeTool\obj\Debug\GenerateResource-ResGen.write.4.tlog
+D:\qwinner-work\New_Jin_Zhan\FoodSafeTool\obj\Debug\GenerateResource-ResGen.write.6.tlog
+C:\Documents and Settings\water\桌面\qwinner-work\New_Jin_Zhan\FoodSafeTool\obj\Debug\Interop.MapXLib.dll
+C:\Documents and Settings\water\桌面\qwinner-work\New_Jin_Zhan\FoodSafeTool\obj\Debug\AxInterop.MapXLib.dll
+C:\Documents and Settings\water\桌面\qwinner-work\New_Jin_Zhan\FoodSafeTool\obj\Debug\JinZhan.csproj.ResolveComReference.cache
+C:\Documents and Settings\water\桌面\qwinner-work\New_Jin_Zhan\FoodSafeTool\obj\Debug\FoodSafeTool.exe
+C:\Documents and Settings\water\桌面\qwinner-work\New_Jin_Zhan\FoodSafeTool\obj\Debug\FoodSafeTool.pdb
+C:\Documents and Settings\water\桌面\qwinner-work\New_Jin_Zhan\FoodSafeTool\bin\Debug\FoodSafeTool.exe
+C:\Documents and Settings\water\桌面\qwinner-work\New_Jin_Zhan\FoodSafeTool\bin\Debug\FoodSafeTool.pdb
+C:\Documents and Settings\water\桌面\qwinner-work\New_Jin_Zhan\FoodSafeTool\bin\Debug\Interop.MapXLib.dll
+C:\Documents and Settings\water\桌面\qwinner-work\New_Jin_Zhan\FoodSafeTool\bin\Debug\AxInterop.MapXLib.dll
+C:\Documents and Settings\water\桌面\qwinner-work\New_Jin_Zhan\FoodSafeTool\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\water\桌面\qwinner-work\New_Jin_Zhan\FoodSafeTool\obj\Debug\FoodSafeTool.AddCompanyInfo.resources
+C:\Documents and Settings\water\桌面\qwinner-work\New_Jin_Zhan\FoodSafeTool\obj\Debug\FoodSafeTool.CompanyList.resources
+C:\Documents and Settings\water\桌面\qwinner-work\New_Jin_Zhan\FoodSafeTool\obj\Debug\FoodSafeTool.Mainfrm.resources
+C:\Documents and Settings\water\桌面\qwinner-work\New_Jin_Zhan\FoodSafeTool\obj\Debug\FoodSafeTool.Pictrue.resources
+C:\Documents and Settings\water\桌面\qwinner-work\New_Jin_Zhan\FoodSafeTool\obj\Debug\FoodSafeTool.Properties.Resources.resources
+C:\Documents and Settings\water\桌面\qwinner-work\New_Jin_Zhan\FoodSafeTool\obj\Debug\FoodSafeTool.ShowDataByType.resources
+C:\Documents and Settings\water\桌面\qwinner-work\New_Jin_Zhan\FoodSafeTool\obj\Debug\FoodSafeTool.Start.resources
+C:\Documents and Settings\water\桌面\qwinner-work\New_Jin_Zhan\FoodSafeTool\obj\Debug\FoodSafeTool.UserManage.resources
+C:\Documents and Settings\water\桌面\qwinner-work\New_Jin_Zhan\FoodSafeTool\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Documents and Settings\water\桌面\qwinner-work\New_Jin_Zhan\FoodSafeTool\obj\Debug\GenerateResource-ResGen.read.4.tlog
+C:\Documents and Settings\water\桌面\qwinner-work\New_Jin_Zhan\FoodSafeTool\obj\Debug\GenerateResource-ResGen.read.5.tlog
+C:\Documents and Settings\water\桌面\qwinner-work\New_Jin_Zhan\FoodSafeTool\obj\Debug\GenerateResource-ResGen.read.6.tlog
+C:\Documents and Settings\water\桌面\qwinner-work\New_Jin_Zhan\FoodSafeTool\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Documents and Settings\water\桌面\qwinner-work\New_Jin_Zhan\FoodSafeTool\obj\Debug\GenerateResource-ResGen.write.4.tlog
+C:\Documents and Settings\water\桌面\qwinner-work\New_Jin_Zhan\FoodSafeTool\obj\Debug\GenerateResource-ResGen.write.5.tlog
+C:\Documents and Settings\water\桌面\qwinner-work\New_Jin_Zhan\FoodSafeTool\obj\Debug\GenerateResource-ResGen.write.6.tlog
+C:\Documents and Settings\water\桌面\qwinner-work\New_Jin_Zhan\FoodSafeTool\obj\Debug\FoodSafeTool.FindCompany.resources
+C:\Documents and Settings\water\桌面\qwinner-work\New_Jin_Zhan\FoodSafeTool\obj\Debug\FoodSafeTool.CompanyInfoList.resources
+D:\qwinner-work\New_Jin_Zhan\FoodSafeTool\bin\Debug\JinZhan.exe.manifest
+D:\qwinner-work\New_Jin_Zhan\FoodSafeTool\bin\Debug\JinZhan.application
+D:\qwinner-work\New_Jin_Zhan\FoodSafeTool\bin\Debug\JinZhan.exe
+D:\qwinner-work\New_Jin_Zhan\FoodSafeTool\bin\Debug\JinZhan.pdb
+D:\qwinner-work\New_Jin_Zhan\FoodSafeTool\obj\Debug\JinZhan.Properties.Resources.resources
+D:\qwinner-work\New_Jin_Zhan\FoodSafeTool\obj\Debug\JinZhan.exe.manifest
+D:\qwinner-work\New_Jin_Zhan\FoodSafeTool\obj\Debug\JinZhan.application
+D:\qwinner-work\New_Jin_Zhan\FoodSafeTool\obj\Debug\JinZhan.exe
+D:\qwinner-work\New_Jin_Zhan\FoodSafeTool\obj\Debug\JinZhan.pdb
+D:\qwinner-work\New_Jin_Zhan\FoodSafeTool\obj\Debug\JinZhan.AddCompanyInfo.resources
+D:\qwinner-work\New_Jin_Zhan\FoodSafeTool\obj\Debug\JinZhan.AddHireHouseInfo.resources
+D:\qwinner-work\New_Jin_Zhan\FoodSafeTool\obj\Debug\JinZhan.HireHouseInfoList.resources
+D:\qwinner-work\New_Jin_Zhan\FoodSafeTool\obj\Debug\JinZhan.Base.resources
+D:\qwinner-work\New_Jin_Zhan\FoodSafeTool\obj\Debug\JinZhan.CompanyList.resources
+D:\qwinner-work\New_Jin_Zhan\FoodSafeTool\obj\Debug\JinZhan.CompanyInfoList.resources
+D:\qwinner-work\New_Jin_Zhan\FoodSafeTool\obj\Debug\JinZhan.企业信息.CheckInfo.resources
+D:\qwinner-work\New_Jin_Zhan\FoodSafeTool\obj\Debug\JinZhan.企业信息.Education.resources
+D:\qwinner-work\New_Jin_Zhan\FoodSafeTool\obj\Debug\JinZhan.企业信息.Foodsafe.resources
+D:\qwinner-work\New_Jin_Zhan\FoodSafeTool\obj\Debug\JinZhan.企业信息.JTsafe.resources
+D:\qwinner-work\New_Jin_Zhan\FoodSafeTool\obj\Debug\JinZhan.Mainfrm.resources
+D:\qwinner-work\New_Jin_Zhan\FoodSafeTool\obj\Debug\JinZhan.Start.resources
+D:\qwinner-work\New_Jin_Zhan\FoodSafeTool\obj\Debug\JinZhan.UserManage.resources
+D:\qwinner-work\New_Jin_Zhan\FoodSafeTool\obj\Debug\JinZhan.企业信息.LDperson.resources
+D:\qwinner-work\New_Jin_Zhan\FoodSafeTool\obj\Debug\JinZhan.企业信息.SafeProduce.resources
+D:\qwinner-work\New_Jin_Zhan\FoodSafeTool\obj\Debug\JinZhan.企业信息.XFsafe.resources
+D:\qwinner-work\New_Jin_Zhan\FoodSafeTool\obj\Debug\JinZhan.ExportData.resources
+D:\qwinner-work\New_Jin_Zhan\FoodSafeTool\obj\Debug\JinZhan.About.resources
+D:\qwinner-work\New_Jin_Zhan\FoodSafeTool\obj\Debug\JinZhan.AddUser.resources
+D:\qwinner-work\New_Jin_Zhan\FoodSafeTool\obj\Debug\JinZhan.TopPanel.resources
+D:\qwinner-work\New_Jin_Zhan\FoodSafeTool\obj\Debug\JinZhan.AddJGe.resources
+D:\qwinner-work\New_Jin_Zhan\FoodSafeTool\obj\Debug\JinZhan.ViewJGPhoto.resources
+D:\qwinner-work\New_Jin_Zhan\FoodSafeTool\obj\Debug\JinZhan.HeadPage.resources
+D:\qwinner-work\功能完善版-New_Jin_Zhan\FoodSafeTool\obj\Debug\JinZhan.csproj.ResolveComReference.cache
+D:\qwinner-work\功能完善版-New_Jin_Zhan\FoodSafeTool\obj\Debug\JinZhan.exe
+D:\qwinner-work\功能完善版-New_Jin_Zhan\FoodSafeTool\obj\Debug\JinZhan.pdb
+D:\qwinner-work\功能完善版-New_Jin_Zhan\FoodSafeTool\obj\Debug\ResolveAssemblyReference.cache
+D:\qwinner-work\功能完善版-New_Jin_Zhan\FoodSafeTool\obj\Debug\JinZhan.About.resources
+D:\qwinner-work\功能完善版-New_Jin_Zhan\FoodSafeTool\obj\Debug\JinZhan.AddCompanyInfo.resources
+D:\qwinner-work\功能完善版-New_Jin_Zhan\FoodSafeTool\obj\Debug\JinZhan.AddHireHouseInfo.resources
+D:\qwinner-work\功能完善版-New_Jin_Zhan\FoodSafeTool\obj\Debug\JinZhan.AddJGe.resources
+D:\qwinner-work\功能完善版-New_Jin_Zhan\FoodSafeTool\obj\Debug\JinZhan.AddUser.resources
+D:\qwinner-work\功能完善版-New_Jin_Zhan\FoodSafeTool\obj\Debug\JinZhan.ExportData.resources
+D:\qwinner-work\功能完善版-New_Jin_Zhan\FoodSafeTool\obj\Debug\JinZhan.HeadPage.resources
+D:\qwinner-work\功能完善版-New_Jin_Zhan\FoodSafeTool\obj\Debug\JinZhan.HireHouseInfoList.resources
+D:\qwinner-work\功能完善版-New_Jin_Zhan\FoodSafeTool\obj\Debug\JinZhan.TopPanel.resources
+D:\qwinner-work\功能完善版-New_Jin_Zhan\FoodSafeTool\obj\Debug\JinZhan.ViewJGPhoto.resources
+D:\qwinner-work\功能完善版-New_Jin_Zhan\FoodSafeTool\obj\Debug\JinZhan.Base.resources
+D:\qwinner-work\功能完善版-New_Jin_Zhan\FoodSafeTool\obj\Debug\JinZhan.CompanyList.resources
+D:\qwinner-work\功能完善版-New_Jin_Zhan\FoodSafeTool\obj\Debug\JinZhan.CompanyInfoList.resources
+D:\qwinner-work\功能完善版-New_Jin_Zhan\FoodSafeTool\obj\Debug\JinZhan.企业信息.CheckInfo.resources
+D:\qwinner-work\功能完善版-New_Jin_Zhan\FoodSafeTool\obj\Debug\JinZhan.企业信息.Education.resources
+D:\qwinner-work\功能完善版-New_Jin_Zhan\FoodSafeTool\obj\Debug\JinZhan.企业信息.Foodsafe.resources
+D:\qwinner-work\功能完善版-New_Jin_Zhan\FoodSafeTool\obj\Debug\JinZhan.企业信息.JTsafe.resources
+D:\qwinner-work\功能完善版-New_Jin_Zhan\FoodSafeTool\obj\Debug\JinZhan.Mainfrm.resources
+D:\qwinner-work\功能完善版-New_Jin_Zhan\FoodSafeTool\obj\Debug\JinZhan.Properties.Resources.resources
+D:\qwinner-work\功能完善版-New_Jin_Zhan\FoodSafeTool\obj\Debug\JinZhan.Start.resources
+D:\qwinner-work\功能完善版-New_Jin_Zhan\FoodSafeTool\obj\Debug\JinZhan.UserManage.resources
+D:\qwinner-work\功能完善版-New_Jin_Zhan\FoodSafeTool\obj\Debug\JinZhan.企业信息.LDperson.resources
+D:\qwinner-work\功能完善版-New_Jin_Zhan\FoodSafeTool\obj\Debug\JinZhan.企业信息.SafeProduce.resources
+D:\qwinner-work\功能完善版-New_Jin_Zhan\FoodSafeTool\obj\Debug\JinZhan.企业信息.XFsafe.resources
+D:\qwinner-work\功能完善版-New_Jin_Zhan\FoodSafeTool\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\qwinner-work\功能完善版-New_Jin_Zhan\FoodSafeTool\obj\Debug\GenerateResource-ResGen.read.4.tlog
+D:\qwinner-work\功能完善版-New_Jin_Zhan\FoodSafeTool\obj\Debug\GenerateResource-ResGen.read.6.tlog
+D:\qwinner-work\功能完善版-New_Jin_Zhan\FoodSafeTool\obj\Debug\GenerateResource-ResGen.write.1.tlog
+D:\qwinner-work\功能完善版-New_Jin_Zhan\FoodSafeTool\obj\Debug\GenerateResource-ResGen.write.4.tlog
+D:\qwinner-work\功能完善版-New_Jin_Zhan\FoodSafeTool\obj\Debug\GenerateResource-ResGen.write.6.tlog
+D:\qwinner-work\功能完善版-New_Jin_Zhan\FoodSafeTool\bin\Debug\JinZhan.exe.manifest
+D:\qwinner-work\功能完善版-New_Jin_Zhan\FoodSafeTool\bin\Debug\JinZhan.application
+D:\qwinner-work\功能完善版-New_Jin_Zhan\FoodSafeTool\bin\Debug\JinZhan.exe
+D:\qwinner-work\功能完善版-New_Jin_Zhan\FoodSafeTool\bin\Debug\JinZhan.pdb
+D:\qwinner-work\功能完善版-New_Jin_Zhan\FoodSafeTool\obj\Debug\JinZhan.exe.manifest
+D:\qwinner-work\功能完善版-New_Jin_Zhan\FoodSafeTool\obj\Debug\JinZhan.application
